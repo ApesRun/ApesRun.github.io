@@ -28,3 +28,7 @@ p, a {
 	font-size:25px;
    	color: white;
 }
+.apeFNT {
+	font-family: ape;
+	src: url(Ape Escape.ttf);
+}
