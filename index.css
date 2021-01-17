@@ -15,6 +15,10 @@ body {
 	padding-top: 1%;
 	padding-bottom: 1%;
 }
+@font-face {
+	font-family: apeescape;
+	src: url(Ape-Escape.ttf);
+}
 h1 {
 	font-size: 72px;
       	color: white;
@@ -37,7 +41,6 @@ p, a {
 }
 .apeFNT {
 	font-family: apeescape;
-	src: url(Ape-Escape.ttf);
 	color: #FFD800;
 	text-shadow: 3px 3px #000000;
 }
