@@ -6,7 +6,7 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url("http://apes.run/images/background.png");
+	background-image: url("https://apes.run/images/background.png");
 }
 body {
 	background-color: rgba(0, 0, 0, 0.8);
