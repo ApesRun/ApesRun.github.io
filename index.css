@@ -9,8 +9,11 @@ html {
 	background-image: url("http://apes.run/images/background.png");
 }
 body {
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(0, 0, 0, 0.8);
 	border: 1px solid white;
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 1%;
 }
 h1 {
 	font-size: 72px;
@@ -21,14 +24,30 @@ h2 {
    	color: white;
 }
 h3 {
-	font-size: 33px;
+	font-size: 35px;
    	color: white;
 }
 p, a {
 	font-size:25px;
    	color: white;
+	text-decoration: none;
+}
+.small {
+	font-size:15px;
 }
 .apeFNT {
 	font-family: apeescape;
 	src: url(Ape-Escape.ttf);
+	color: #FFD800;
+	text-shadow: 3px 3px #000000;
+}
+.logo:hover, .option:hover, .gamename:hover {
+	color:white;
+}
+.gamename {
+	font-size: 30px;
+}
+iframe {
+	border: 1px solid #FFD800;
+	border-radius: 4px;
 }
