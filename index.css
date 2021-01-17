@@ -1,14 +1,30 @@
 html {
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-image: url("http://apes.run/images/background.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-image: url("http://apes.run/images/background.png");
 }
 body {
 	background-color: rgba(0, 0, 0, 0.5);
-  border: 1px solid white;
+	border: 1px solid white;
+}
+h1 {
+	font-size: 72px;
+      	color: white;
+}
+h2 {
+	font-size: 40px;
+   	color: white;
+}
+h3 {
+	font-size: 33px;
+   	color: white;
+}
+p, a {
+	font-size:25px;
+   	color: white;
 }
