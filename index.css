@@ -1,0 +1,13 @@
+html {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-image: url("apes.run/images/background.png");
+}
+body {
+  background-color: rgb(255,255,255,0.5);
+}
