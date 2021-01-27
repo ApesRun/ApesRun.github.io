@@ -85,3 +85,10 @@ iframe {
   height: 75%;
   width: 30%;
   }
+  .videos {
+  margin: auto;
+  overflow: auto;
+  height: auto;
+  width: 70%;
+  height: 60%;
+  }
