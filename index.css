@@ -21,24 +21,28 @@ body {
 	src: url(Fullape-Regular.ttf);
 }
 h1 {
-	font-size: 72px;
+	font-size: 75px;
 	font-family: apeescape;
 	color: #FFD800;
+	text-shadow: 3px 3px #000000;
 }
 h2 {
-	font-size: 40px;
+	font-size: 43px;
 	font-family: apeescape;
 	color: #FFD800;
+	text-shadow: 3px 3px #000000;
 }
 h3 {
-	font-size: 35px;
+	font-size: 38px;
 	font-family: apeescape;
+	text-shadow: 3px 3px #000000;
 	color: #FFD800;
 }
 p, a {
-	font-size:25px;
+	font-size:28px;
 	font-family: apeescape;
 	color: #FFD800;
+	text-shadow: 3px 3px #000000;
 	text-decoration: none;
 }
 .small {
